@@ -1,0 +1,25 @@
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.option-box .option-icon,
+.dropdown-menu > li > a:hover,
+.carousel-indicators .active
+{
+     background-color: purple;
+}
+
+
+.option-box .options,
+.carousel-indicators li,
+.testmonials .carousel-indicators .active
+{
+    border: 3px solid purple;
+}
+
+
+.navbar-brand span,
+.testmonials span
+{
+    color:purple  ;
+}

@@ -1,0 +1,99 @@
+/* Start About Us */
+.breadcrumb-holder
+{
+    background-color: #f5f5f5;
+    margin-top: 60px;
+}
+.breadcrumb
+{
+    padding: 10px 0;
+    margin: 0;
+}
+.about-us
+{
+    padding: 60px 0;
+}
+.about-us h1,
+.about-features h3
+{
+    font-family: 'Kurale', serif;
+    font-weight: bold;
+    letter-spacing: -3px;
+}
+.about-us h1
+{
+    font-size: 60px;
+}
+.about-us hr
+{
+    width: 70%;
+    height: 5px;
+}
+.about-us p
+{
+width: 65%;
+margin: auto;
+padding-bottom: 20px;
+}
+.about-features
+{
+    margin-bottom: 40px;
+    font-family: 'Kurale', serif;
+}
+.about-features p
+{
+    margin-bottom: 20px;
+}
+.about-ceo
+{
+    background-color: #f5f5f5;
+    padding-top: 60px ;
+}
+.about-ceo h2
+{
+    padding-left: 0;
+    padding-bottom: 0;
+    font-family: 'Kurale', serif;
+}
+.about-ceo .btn-primary
+{
+    background-color: black;
+    border: 1px solid black;
+}
+.about-ceo p
+{
+  line-height:25px;
+  letter-spacing: 1.7;
+}
+.about-ceo a
+{
+    margin-bottom: 20px;
+}
+/* End About Us */
+/* Start frequently questions */
+.frequently-questions h2
+{
+    font-family: 'Kurale', serif;
+    font-size: 45px;
+}
+.frequently-questions h2 ~ hr
+{
+    width: 60%;
+}
+
+.panel-default .panel-heading
+{
+    padding: 20px;
+}
+.panel-default a::after
+{
+  font-family: 'Glyphicons Halflings';
+  content: "\e114";
+  float: right;
+}
+
+.panel-default a.collapsed::after
+{
+    content: "\e080";
+}
+

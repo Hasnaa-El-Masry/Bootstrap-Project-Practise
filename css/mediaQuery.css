@@ -1,0 +1,51 @@
+/* Smart Phones And Tablets */
+@media (max-width:767px){
+
+    .navbar-nav > li > a {
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse 
+    {
+        max-height: none;
+    }
+
+    .about h2
+    {
+        margin-top: 60px;
+        margin-bottom: 10px;
+    }
+
+    .about p {
+    padding: 10px;
+    }
+
+    .subscribe .form-control {
+        margin-bottom: 10px;
+    }
+
+    footer .img-thumbnail
+    {
+        width: 100px;
+        height: 100px;
+    }
+    
+    footer .footer-works img
+    {
+        text-align: center;
+    }
+}
+/* Small Screens */
+@media (min-width:768px) and (max-width:991px){
+
+}
+/* Medium Screens */
+@media (min-width:992px) and (max-width:1199px){
+
+}
+/* Large Screens */
+@media (min-width:1200px){
+
+}
